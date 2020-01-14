@@ -25,3 +25,5 @@ copying secret/stg/redis_url to secret/ent/redis_url
 copying secret/stg/username to secret/ent/username
 ```
 
+If the flag preserve data is disabled `-p=false`, the data is moved (source is deleted).
+
